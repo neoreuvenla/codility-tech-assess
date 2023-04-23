@@ -17,5 +17,5 @@ A repository to hold the completed technical interview assessments from Codility
 
 ## **Repository Contents**
 
-- [**Divisible Replacement**](https://github.com/neoreuvenla/codility-tech-int/blob/main/divisible%20replacement.java)
-- [**Stack Machine**](https://github.com/neoreuvenla/codility-tech-int/blob/main/stack%20machine.java)
+- [**Divisible Replacement**](https://github.com/neoreuvenla/codility-tech-assess/blob/main/divisible%20replacement.java)
+- [**Stack Machine**](https://github.com/neoreuvenla/codility-tech-assess/blob/main/stack%20machine.java)
