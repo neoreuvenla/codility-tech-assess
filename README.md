@@ -11,7 +11,7 @@
 
 </div>
 
-A repository to hold the completed coding exercises from Codility.
+A repository to hold the completed technical interview assessments from Codility.
 
 <br>
 
