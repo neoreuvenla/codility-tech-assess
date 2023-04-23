@@ -17,5 +17,5 @@ A repository to hold the completed coding exercises from Codility.
 
 ## **Repository Contents**
 
-- [**Divisible Replacement**](https://github.com/neoreuvenla/codility_tests/blob/main/01%20Divisible%20Output%20Task.ipynb)
-- [**Stack Machine**](https://github.com/neoreuvenla/codility_tests/blob/main/01%20Divisible%20Output%20Task.ipynb)
+- [**Divisible Replacement**](https://github.com/neoreuvenla/codility_tests/blob/main/stack%20machine.py)
+- [**Stack Machine**](https://github.com/neoreuvenla/codility_tests/blob/main/divisible%20replacement.py)
